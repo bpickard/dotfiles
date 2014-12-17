@@ -1,4 +1,5 @@
 :colorscheme evening
+:set t_Co=256
 :set number
 :set nowrap
 :set autochdir
