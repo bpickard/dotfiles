@@ -1,4 +1,8 @@
 :colorscheme evening
+:set ruler
+:set ignorecase
+:set autoindent
+:set shiftround
 :set t_Co=256
 :set number
 :set nowrap
